@@ -1,0 +1,8 @@
+pandas
+scikit-learn
+joblib
+fastparquet
+pyarrow
+plotly
+numpy
+folium
