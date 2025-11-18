@@ -1,6 +1,6 @@
 🌿 Sistema de Monitoramento Ambiental Industrial
 Disciplina: Inteligência Artificial
-Alunos: Douglas Hebert, Natanael Bezerra, Lucas de Souza Morais
+Alunos: Douglas Hebert e Lucas de Souza Morais
 
 📌 Descrição do Projeto
 
